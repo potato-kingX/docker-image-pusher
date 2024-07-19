@@ -1,1 +1,1 @@
-redis:latest
+mcsmanager-daemon:3.4.0
