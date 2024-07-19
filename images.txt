@@ -1,1 +1,1 @@
-mcsmanager-daemon:3.4.0
+alisaqaq/mcsmanager-daemon:3.4.0
