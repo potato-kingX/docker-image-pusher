@@ -1,1 +1,1 @@
-rustdesk/rustdesk-server-s6:latest
+rustdesk/rustdesk-server:latest
