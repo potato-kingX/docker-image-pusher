@@ -1,1 +1,1 @@
-rustdesk/rustdesk-server:latest
+yidadaa/chatgpt-next-web:v2.15.7
