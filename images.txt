@@ -1,1 +1,4 @@
-lobehub/lobe-chat:v1.27.3
+pgvector/pgvector:pg16
+minio/minio
+svhd/logto
+lobehub/lobe-chat-database
